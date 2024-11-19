@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://www.bing.com/images/search?view=detailV2&ccid=2P%2b9J7Zp&id=725329CEE291C32D4E80F491B4B7552C460E5CE1&thid=OIP.2P-9J7ZpCjHbKszhEpYLsgHaDf&mediaurl=https%3a%2f%2fwww.shutterstock.com%2fimage-vector%2fdevsecops-devops-icons-vector-260nw-2138437871.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.d8ffbd27b6690a31db2acce112960bb2%3frik%3d4VwORixVt7SR9A%26pid%3dImgRaw%26r%3d0&exph=280&expw=594&q=image+devsecops&simid=608011943740047862&FORM=IRPRST&ck=4F7A1D62DA6C97302CA60334F702A093&selectedIndex=26&itb=0" align="center" style="width: 100%" />
+<img src="https://wallpaperaccess.com/full/8173306.jpg" align="center" style="width: 100%" />
 </div>  
   
 
@@ -99,18 +99,16 @@
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+  
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
+  
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+<img src="https://komarev.com/ghpvc/?username=Wissem-Nasri&&style=flat-square" align="center" />
 </div>  
   
 
